@@ -8,9 +8,6 @@
   "029f235f01": {
     "translation": "We’re working on support for files from <a><strong>{appName}</strong></a>."
   },
-  "03b3e13197": {
-    "translation": "Drag the file into the sidebar on this page. Or select the 'Import file' option from the user menu."
-  },
   "043973ec1f": {
     "translation": "Still having trouble? {GetHelpLink}"
   },
@@ -301,6 +298,9 @@
   },
   "70a6facb9d": {
     "translation": "This week"
+  },
+  "7122014b14": {
+    "translation": "Drag the file into the sidebar on this page. Or select the 'Import file' option from the file menu."
   },
   "71a29b007b": {
     "translation": "Have a bug, issue, or idea for tldraw? Let us know!"

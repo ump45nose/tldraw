@@ -37,12 +37,6 @@
       "value": "."
     }
   ],
-  "03b3e13197": [
-    {
-      "type": 0,
-      "value": "Drag the file into the sidebar on this page. Or select the 'Import file' option from the user menu."
-    }
-  ],
   "043973ec1f": [
     {
       "type": 0,
@@ -730,6 +724,12 @@
     {
       "type": 0,
       "value": "This week"
+    }
+  ],
+  "7122014b14": [
+    {
+      "type": 0,
+      "value": "Drag the file into the sidebar on this page. Or select the 'Import file' option from the file menu."
     }
   ],
   "71a29b007b": [
